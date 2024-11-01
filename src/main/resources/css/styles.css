@@ -1,0 +1,13 @@
+.button {
+    -fx-background-radius: 20;
+    -fx-border-radius: 20;
+    -fx-padding: 10;
+    -fx-background-color: #3572EF;
+    -fx-border-color: #050C9C;
+    -fx-font-size: 40px;
+    -fx-text-fill: white;
+}
+
+#mainAnchor{
+    -fx-background-color: #3ABEF9;
+}
